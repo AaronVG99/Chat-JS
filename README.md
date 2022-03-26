@@ -1,2 +1,2 @@
-# Chat-ReactJS
-Chat created with React JS
+# Chat JS
+Chat created with JS
